@@ -18,9 +18,7 @@ I'm a passionate Web Developer exploring the world of front-end development with
 
 ### 📈 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=MuhammadJawad-dot&show_icons=true&theme=react&hide_title=true"/>
-</p>
+
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadJawad-dot&layout=compact&theme=react"/>
