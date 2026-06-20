@@ -20,21 +20,17 @@ I enjoy designing reliable, maintainable, and secure AI applications that solve 
 
 > **Building AI that is intelligent, scalable, and trusted by design.** 
 
-## 🚀 Core Expertise
+##  Core Expertise
 
-![AI](https://img.shields.io/badge/🤖-AI%20Agents-8B5CF6?style=for-the-badge)
-
-![RAG](https://img.shields.io/badge/📚-RAG%20Systems-06B6D4?style=for-the-badge)
-
-![Backend](https://img.shields.io/badge/⚡-Backend%20Engineering-22C55E?style=for-the-badge)
-
-![GenAI](https://img.shields.io/badge/🧠-Generative%20AI-F97316?style=for-the-badge)
-
-![Privacy](https://img.shields.io/badge/🔒-Privacy%20AI-E11D48?style=for-the-badge)
-
-![Database](https://img.shields.io/badge/🗄️-Vector%20Databases-3B82F6?style=for-the-badge)
-
-![Cloud](https://img.shields.io/badge/☁️-Cloud%20%26%20DevOps-14B8A6?style=for-the-badge)
+```text
+🤖 AI Agents & Multi-Agent Systems
+📚 Retrieval-Augmented Generation (RAG)
+⚡ Production APIs with FastAPI & Django
+🧠 Local & Cloud AI Applications
+🔒 Privacy-First AI Architectures
+📊 Vector Search & Knowledge Systems
+☁️ Scalable Backend Infrastructure
+```
 
 ## 🛠 Tech Stack
 
