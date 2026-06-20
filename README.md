@@ -1,53 +1,102 @@
+<div align="center">
 
-### 👋 Hi, I'm Muhammad Jawad
+<a href="https://github.com/MuhammadJawad-dot">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=2500&pause=500&color=8B5CF6&center=true&vCenter=true&width=850&lines=Muhammad+Jawad;Generative+AI+Engineer;Backend+Developer;Building+Production-Ready+AI+Systems;Privacy-by-Design+Advocate" />
+</a>
 
-I'm a passionate Web Developer exploring the world of front-end development with a focus on modern tools like React, JavaScript, and responsive design. I'm constantly learning and building exciting new projects!
+<h3>
+Full Stack AI Engineer • AI Agents • RAG • Production AI Systems
+</h3>
+
+</div>
+
+##  Hi, I'm Muhammad Jawad
+
+Building intelligent systems that think, retrieve, reason, and scale.
+
+I'm a **Full Stack AI Engineer** focused on transforming cutting-edge AI into production-ready software. My expertise lies in **AI Agents, Retrieval-Augmented Generation (RAG), scalable backend architectures, and privacy-first AI systems**.
+
+I enjoy designing reliable, maintainable, and secure AI applications that solve real-world problems—from autonomous workflows and intelligent APIs to cloud and on-device AI solutions.
+
+> **Building AI that is intelligent, scalable, and trusted by design.** 
+
+## 🚀 Core Expertise
+
+![AI](https://img.shields.io/badge/🤖-AI%20Agents-8B5CF6?style=for-the-badge)
+
+![RAG](https://img.shields.io/badge/📚-RAG%20Systems-06B6D4?style=for-the-badge)
+
+![Backend](https://img.shields.io/badge/⚡-Backend%20Engineering-22C55E?style=for-the-badge)
+
+![GenAI](https://img.shields.io/badge/🧠-Generative%20AI-F97316?style=for-the-badge)
+
+![Privacy](https://img.shields.io/badge/🔒-Privacy%20AI-E11D48?style=for-the-badge)
+
+![Database](https://img.shields.io/badge/🗄️-Vector%20Databases-3B82F6?style=for-the-badge)
+
+![Cloud](https://img.shields.io/badge/☁️-Cloud%20%26%20DevOps-14B8A6?style=for-the-badge)
+
+## 🛠 Tech Stack
+
+### AI & LLM Engineering
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
+![LangGraph](https://img.shields.io/badge/LangGraph-6C47FF?style=for-the-badge)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black)
 
 ---
 
-### 🛠️ Tech Stack
+### Backend Development
 
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-</p>
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge)
 
 ---
 
-### 📈 GitHub Stats
+### Databases & Vector Stores
 
-
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadJawad-dot&layout=compact&theme=react"/>
-</p>
-
----
-
-### 📂 Projects
-
-- 💼 [E-commerce Cart](https://github.com/MuhammadJawad-dot/E-commerce-Cart): A dynamic front-end cart system using vanilla JS, CSS and HTML.
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=for-the-badge)
 
 ---
 
-### 🎯 Goals for 2025
+### Cloud & DevOps
 
-- Become a proficient React Developer 🚀
-- Build 5+ real-world projects 💡
-- Learn backend basics with Node.js and MongoDB 🗃️
-- Collaborate on open-source contributions 🤝
-
----
-
-### 📫 Let's Connect
-
-Feel free to connect with me or check out my projects on GitHub!
-
-> ⭐ If you like what I do, don't forget to follow me!
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
+### Frontend
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
 
+---
+
+```md
+## 🎯 Final Year Project
+
+🩺 **MediNova**
+
+An offline AI-powered medical assistant using distilled Small Language Models (SLMs) for:
+
+• Medical Lab Report Analysis
+• Personalized Health Insights
+• On-device AI Inference
+• Privacy-Preserving Intelligence
+• Diet & Exercise Recommendations
+• Chat-based Medical Assistance
+
+> Built with FastAPI • LangGraph • PostgreSQL • ChromaDB • Local LLMs
